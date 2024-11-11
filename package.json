@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This Is Backend For MereRoots",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAmeerHamzakhan/MereRoots-Backend.git"
+  },
+  "author": "Ameer Hamza Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadAmeerHamzakhan/MereRoots-Backend/issues"
+  },
+  "homepage": "https://github.com/MuhammadAmeerHamzakhan/MereRoots-Backend#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
